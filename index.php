@@ -599,6 +599,5 @@
     </div>
 </div>-->
 <!-- partner end -->
-
 <!-- Footer start -->
 <?php include('include/footer.php');?>
